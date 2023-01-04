@@ -15,4 +15,4 @@ The footer of the webpage contains contact information. When the user clicks on 
 
 https://emlarko.github.io/EL-CSS-challenge/
 
-![Screenshot](/screenshot/EL-CSS-challenge/assets/images/portfolio-screenshot.png?raw=true "Screenshot")
+![Screenshot](/portfolio-screenshot.png?raw=true "Screenshot")
