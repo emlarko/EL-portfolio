@@ -13,6 +13,6 @@ The footer of the webpage contains contact information. When the user clicks on 
 
 **GitHub Page**
 
-https://emlarko.github.io/EL-CSS-challenge/
+https://emlarko.github.io/EL-portfolio/
 
 ![Screenshot](/portfolio-screenshot.png?raw=true "Screenshot")
